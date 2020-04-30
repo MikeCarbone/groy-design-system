@@ -1,5 +1,5 @@
 # Groy Design System
-![home screen]('./public/home.png' "Logo Title Text 1")
+![home screen]('home.png')
 
 
 
