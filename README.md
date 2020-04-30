@@ -1,5 +1,5 @@
 # Groy Design System
-![home screen]('home.png')
+![home screen](home.png)
 
 
 
